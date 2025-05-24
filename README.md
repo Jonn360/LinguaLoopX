@@ -1,0 +1,2 @@
+# LinguaLoopX
+Language Learning App 
