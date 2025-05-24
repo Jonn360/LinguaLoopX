@@ -1,2 +1,2 @@
-# LinguaLoopX
+# LingoXLoop
 Language Learning App 
